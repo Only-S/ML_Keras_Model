@@ -1,6 +1,6 @@
 # ML_Keras_Model
 
-> Os passos de 1 a 3 já foram realizados e se encontram nos arquivos deste repositório.
+> Os arquivos deste repositório são resultado da execução dos passos 1 até o 3.
 
 ## Passos para Configuração
 
