@@ -28,4 +28,4 @@ pip install opencv-python
 pip3 install tensorflow==2.10
 pip3 install opencv-python
 
-6. Agora basta testar se o código rodou.
+6. Agora basta testar se tudo funcionou e ao rodar o código a camêra está identificado corretamente as imagens (talvez seja necessário permitir a utilização da câmera no dispositivo).
